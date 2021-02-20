@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
  ## Travelling Site By React
+ ### ScreenShots
+![](https://github.com/thbappy7706/Travelling-Web-Site-React-JS/blob/master/public/1.png)
